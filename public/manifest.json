@@ -1,0 +1,9 @@
+{
+    "name": "shelife",
+    "short_name": "shelife",
+    "icons": [],
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "theme_color": "#4DBA87"
+  }
